@@ -19,7 +19,9 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/sfg32DL.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='assets/Animation.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+[Gif-link](https://i.imgur.com/sfg32DL.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
